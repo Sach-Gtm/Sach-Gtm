@@ -11,10 +11,10 @@
 
 <p align="center">
   <!-- Badges -->
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/<YOUR_GITHUB_USERNAME>?label=Followers&style=flat-square" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&style=flat-square" />
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/<YOUR_GITHUB_USERNAME>?style=flat-square" />
-  <img alt="Commit activity (year)" src="https://img.shields.io/github/commit-activity/y/<YOUR_GITHUB_USERNAME>?style=flat-square" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sach-Gtm?label=Followers&style=flat-square" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sach-Gtm&style=flat-square" />
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/Sach-Gtm?style=flat-square" />
+  <img alt="Commit activity (year)" src="https://img.shields.io/github/commit-activity/y/Sach-Gtm?style=flat-square" />
   <img alt="Repo count" src="https://img.shields.io/github/repo-size/<YOUR_GITHUB_USERNAME>/<YOUR_REPO>?style=flat-square" />
 </p>
 
